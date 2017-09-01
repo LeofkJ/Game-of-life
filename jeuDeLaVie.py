@@ -1,3 +1,4 @@
+#In this version, the board wraps around like a torus
 from random import *
 from tkinter import *
 
